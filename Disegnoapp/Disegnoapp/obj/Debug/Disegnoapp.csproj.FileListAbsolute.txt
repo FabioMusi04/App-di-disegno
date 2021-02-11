@@ -1,0 +1,10 @@
+C:\Users\Fabio Musitelli\source\repos\Disegnoapp\Disegnoapp\bin\Debug\Disegnoapp.exe.config
+C:\Users\Fabio Musitelli\source\repos\Disegnoapp\Disegnoapp\bin\Debug\Disegnoapp.exe
+C:\Users\Fabio Musitelli\source\repos\Disegnoapp\Disegnoapp\bin\Debug\Disegnoapp.pdb
+C:\Users\Fabio Musitelli\source\repos\Disegnoapp\Disegnoapp\obj\Debug\Disegnoapp.Form1.resources
+C:\Users\Fabio Musitelli\source\repos\Disegnoapp\Disegnoapp\obj\Debug\Disegnoapp.Properties.Resources.resources
+C:\Users\Fabio Musitelli\source\repos\Disegnoapp\Disegnoapp\obj\Debug\Disegnoapp.csproj.GenerateResource.cache
+C:\Users\Fabio Musitelli\source\repos\Disegnoapp\Disegnoapp\obj\Debug\Disegnoapp.csproj.CoreCompileInputs.cache
+C:\Users\Fabio Musitelli\source\repos\Disegnoapp\Disegnoapp\obj\Debug\Disegnoapp.exe
+C:\Users\Fabio Musitelli\source\repos\Disegnoapp\Disegnoapp\obj\Debug\Disegnoapp.pdb
+C:\Users\Fabio Musitelli\source\repos\Disegnoapp\Disegnoapp\obj\Debug\Disegnoapp.csprojAssemblyReference.cache

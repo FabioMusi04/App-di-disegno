@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30804.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Disegnoapp", "Disegnoapp\Disegnoapp.csproj", "{DE2D0833-3CBD-4E34-9D83-CFD19105C129}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Setup app disegno", "Setup app disegno\Setup app disegno.vdproj", "{875A9CB8-F018-4952-994F-250495004113}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DE2D0833-3CBD-4E34-9D83-CFD19105C129}.Debug|Any CPU.ActiveCfg = Release|Any CPU
+		{DE2D0833-3CBD-4E34-9D83-CFD19105C129}.Debug|Any CPU.Build.0 = Release|Any CPU
+		{DE2D0833-3CBD-4E34-9D83-CFD19105C129}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DE2D0833-3CBD-4E34-9D83-CFD19105C129}.Release|Any CPU.Build.0 = Release|Any CPU
+		{875A9CB8-F018-4952-994F-250495004113}.Debug|Any CPU.ActiveCfg = Debug
+		{875A9CB8-F018-4952-994F-250495004113}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7CEED2E6-3D81-47CE-B00F-56C514556ADB}
+	EndGlobalSection
+EndGlobal
